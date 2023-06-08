@@ -1,0 +1,6 @@
+{
+  "posts": [
+    { "id": 1, "name": "hesham", "age": 36, "phone_number": "01119554463" },
+    { "id": 2, "name": "aseel", "age": 2, "phone_number": "01119554464" }
+  ]
+}
